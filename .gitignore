@@ -1,0 +1,14 @@
+cache/
+hh-cache/
+# Node
+node_modules
+
+# Dapptools
+out/
+artifacts/
+.env
+
+.DS_Store
+.vscode
+
+package-lock.json
